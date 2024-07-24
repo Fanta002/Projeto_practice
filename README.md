@@ -16,7 +16,7 @@ Para clonar e executar essa lading page, você precisará do Git.
 ```bash
 $ git clone https://github.com/alanledur1/Projeto_practice.git
 ```
- ![Demonstração em GIF](resources/img/gif12.mp4)
+ ![Demonstração em GIF](resources/img/gif13.gif)
  
 ## Contato
 
