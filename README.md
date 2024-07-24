@@ -14,7 +14,7 @@ Para clonar e executar essa lading page, você precisará do Git.
 ### Clonar o Repositório
 
 ```bash
-$ git clone https://github.com/seu-usuario/hotwheels.gitt
+$ git clone https://github.com/alanledur1/Projeto_practice.git
 ```
  ![Demonstração em GIF](resources/img/gif12.mp4)
  
